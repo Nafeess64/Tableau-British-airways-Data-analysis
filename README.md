@@ -1,2 +1,2 @@
 # Tableau-British-airways-Data-analysis
-Creating a dashboard that incorporates services and customer feedback by country can provide valuable insights into the performance of services across different regions.
+dashboard that incorporates services and customer feedback by country can provide valuable insights into the performance of services across different regions.
